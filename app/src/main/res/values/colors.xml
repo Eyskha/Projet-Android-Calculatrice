@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundMain">#FFFFFF</color>
+    <color name="whitebutton">#E3E3E3</color>
+    <color name="supprbutton">#59954B</color>
+    <color name="operationbutton">#64AE53</color>
+    <color name="backgroundPopUp">#222222</color>
+    <color name="textPopUp">#C6C6C6</color>
+</resources>

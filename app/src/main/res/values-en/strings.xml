@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textButton0">0</string>
+    <string name="textButton1">1</string>
+    <string name="textButton2">2</string>
+    <string name="textButton3">3</string>
+    <string name="textButton4">4</string>
+    <string name="textButton5">5</string>
+    <string name="textButton6">6</string>
+    <string name="textButton7">7</string>
+    <string name="textButton8">8</string>
+    <string name="textButton9">9</string>
+    <string name="textButtonPlus">+</string>
+    <string name="textButtonMinus">-</string>
+    <string name="textButtonTimes">*</string>
+    <string name="textButtonDiv">/</string>
+    <string name="textButtonEqual">=</string>
+    <string name="textButtonCom">.</string>
+    <string name="textButtonReset">←</string>
+    <string name="textButtonLeftPar">(</string>
+    <string name="textButtonRightPar">)</string>
+    <string name="textButtonOthers">...</string>
+    <string name="textButtonMenu">Menu</string>
+    <string name="textScreen"></string>
+    <string name="closePopUp">X</string>
+    <string name="titlePopUp">Options</string>
+    <string name="textViewOptionNbSign">Number of decimal places : </string>
+    <string name="optionDefaultNbSign">2</string>
+    <string name="textViewOptionRadDeg">Angles in radians/degrees : </string>
+    <string name="textViewOptionRad">RAD</string>
+    <string name="textViewOptionDeg">DEG</string>
+    <string name="textViewOptionLanguage">Option language : </string>
+</resources>
